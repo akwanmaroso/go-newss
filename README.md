@@ -5,7 +5,14 @@
 ## How to run?
 
 ```shell
-    go run main.go -apikey $your-api-key
+go build main.go
+./main.go $your-api-key
+```
+
+or
+
+```shell
+go run main.go -apikey $your-api-key
 ```
 
 ## Preview
