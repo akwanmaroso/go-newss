@@ -14,7 +14,6 @@ import (
 	"time"
 )
 
-// eb102fa1b3ca49d1b1de92d21474950c
 var apiKey *string
 var tpl = template.Must(template.ParseFiles("index.html"))
 
